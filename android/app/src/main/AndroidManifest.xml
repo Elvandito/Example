@@ -2,8 +2,7 @@
     package="com.example.hw_config_manager">
     <application
         android:label="HW Config Manager"
-        android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:name="${applicationName}">
         <activity
             android:name=".MainActivity"
             android:exported="true"
