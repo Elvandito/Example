@@ -1,0 +1,53 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.idea/
+*.iml
+
+# IntelliJ related
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains settings for Visual Studio Code
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android related
+**/android/**/gradle-wrapper.js
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/repository/
+**/android/storage.cache/
+*.jks
+*.keystore
+*.p12
+*.pem
+*.der
+*.crt
+*.p7b
+
+# Symbols and settings
+.settings/
+.project
+.classpath
